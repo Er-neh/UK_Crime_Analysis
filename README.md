@@ -1,4 +1,4 @@
-ANALYSIS OF UK RECORDED CRIM FROM 2013 - 2018
+ANALYSIS OF UK RECORDED CRIME FROM 2013 - 2018
 
 The dataset employed is  The ‘Police recorded crime open data tables, year ending March 2013 onwards. It is an Official Statistics output produced to the highest professional standards and free from political interference. It has been produced by statisticians working in the Home Office Analysis and Insight Directorate in accordance with the Home Office’s ‘Statement of compliance with the Code of Practice for Statistics’ which covers our policy on revisions and other matters. The Chief Statistician, as Head of Profession, reports to the National Statistician with respect to all professional statistical matters and oversees all Home Office Official Statistics products with respect to the Code, being responsible for their timing, content and methodology.
 
